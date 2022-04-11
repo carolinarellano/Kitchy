@@ -6,14 +6,14 @@ Also, this was made with an interactive recipes creator, were the user can write
 This project was created for our 'Algorithms and Programming' class
 The code is 100% python and the tools that we used were:
   About code:
-    Functions
-    Conditional structures
-    Loop structures
-    .csv and .txt archives
+    - Functions
+    - Conditional structures
+    - Loop structures
+    - .csv and .txt archives
    
   About libraries:
-    Tkinter
-    Mathplotlib
+    - Tkinter
+    - Mathplotlib
 
   Feel free to use it!
   
