@@ -1,5 +1,5 @@
 # Kitchy
-An electronic recipe book where you can find recipes and also write your own recipes.
+A desktop recipe book where you can find recipes and also write your own recipes.
 This recipe book can help you to find recipes very easily, because teh recipes are classified by time, diet, flavor type and you can choose whatever you want.
 Also, this was made with an interactive recipes creator, were the user can write their own recipes and upload it to share with all the Kitchy community.
 
